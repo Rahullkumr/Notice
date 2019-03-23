@@ -1,2 +1,2 @@
 # Notice
-This is the container page for the app- "Routines", especially developed for my class.
+This is the page for special persons involved in the development of the app- "Routines", especially designed and developed for my class.
